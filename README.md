@@ -88,7 +88,7 @@ presupuesto** o **chatear con el taller**, sin instalar nada y sin llamarte.
 Sin mensualidades. Para comparar, los sistemas parecidos se cobran entre **US$ 60 y US$ 100 por mes**.
 
 **Incluye:**
-- licencia **para siempre** para tu empresa;
+- licencia **por meses o al año** para tu empresa;
 - las **dos versiones**, web y Windows;
 - uso en **hasta 2 lugares** (2 PCs, o la web y una PC);
 - **1 año** de actualizaciones;
