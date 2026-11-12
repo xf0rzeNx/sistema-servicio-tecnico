@@ -17,6 +17,10 @@
   <a href="https://ko-fi.com/fotech"><img src="https://img.shields.io/badge/Donar-%E2%99%A5-ff5e5b?style=for-the-badge" alt="Donar"></a>
 </p>
 
+> [!TIP]
+> **🚀 Lanzamiento: 40% de descuento para los primeros 20.** Queda en **US$ 47** en vez de US$ 79, con el código
+> **`LANZAMIENTO`**. [Usar el descuento →](https://fotech.gumroad.com/l/servicio-tecnico/LANZAMIENTO)
+
 <p align="center">
   <img src="https://img.shields.io/badge/versi%C3%B3n-web%20%2B%20Windows-30363d?style=flat-square" alt="Web y Windows">
   <img src="https://img.shields.io/badge/idioma-espa%C3%B1ol-30363d?style=flat-square" alt="Español">
@@ -88,7 +92,7 @@ presupuesto** o **chatear con el taller**, sin instalar nada y sin llamarte.
 Sin mensualidades. Para comparar, los sistemas parecidos se cobran entre **US$ 60 y US$ 100 por mes**.
 
 **Incluye:**
-- licencia **por meses o al año** para tu empresa;
+- licencia **para siempre** para tu empresa;
 - las **dos versiones**, web y Windows;
 - uso en **hasta 2 lugares** (2 PCs, o la web y una PC);
 - **1 año** de actualizaciones;
